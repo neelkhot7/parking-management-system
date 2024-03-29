@@ -28,18 +28,6 @@ Enhanced User Experience: Whether you're a parking attendant or a vehicle owner,
 
 Reliable Performance: With thorough testing and optimization, our system delivers reliable performance, even during peak usage.
 
-
-🔧 Installation Instructions:
-
-Clone the repository to your local machine.
-
-Ensure you have Java Development Kit (JDK) and SQLite installed.
-
-Open the project in your preferred Java IDE.
-
-Build and run the project to start using the Parking Management System.
-
-
 📖 Documentation:
 
 For detailed documentation on setting up and using the Parking Management System, refer to the Installation.md.
