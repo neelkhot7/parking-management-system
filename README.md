@@ -42,4 +42,4 @@ Build and run the project to start using the Parking Management System.
 
 📖 Documentation:
 
-For detailed documentation on setting up and using the Parking Management System, refer to the README.md file and the docs folder in the repository.
+For detailed documentation on setting up and using the Parking Management System, refer to the Installation.md.
